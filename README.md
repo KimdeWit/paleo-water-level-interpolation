@@ -7,6 +7,6 @@ The repository includes the code to reproduce the 3D groundwater level or sea-le
 To access the project, it can be cloned.
 
 To reproduce the results from XX, the required input data needs to be downloaded from:
-HOLSEA-NL Zenodo    XXXX
-YODA                XXXX
+Zenodo  HOLSEA-NL v.3.0  De Wit and Cohen (2024) (https://doi.org/10.5281/zenodo.18175583)
+YODA    XXXX
 
