@@ -1,0 +1,12 @@
+# exclude compiled binaries and external models
+/bin
+
+# exclude data from source control by default
+/data/temp
+/data/processed
+/data/raw-HOLSEA
+/data/raw
+
+# do not update local results
+/results
+.Rproj.user
